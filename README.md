@@ -1,6 +1,6 @@
-#Spark X-means implementation in Java
+#Apache Spark X-Means Java Implementation
 
-SparkXMeans is a Java implementation of X-means clustering algorithm on Apache spark platform. The algorithm implements the concepts described in:
+sparkXMeans is a Java implementation of X-means clustering algorithm on Apache spark platform. The algorithm implements the concepts described in:
 
 Pelleg, Dan, and Andrew W. Moore. "X-means: Extending K-means with Efficient Estimation of the Number of Clusters." In ICML, pp. 727-734. 2000.
 
